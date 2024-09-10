@@ -1,0 +1,5 @@
+com\ratecard\invoice\controllers\InvoiceController.class
+com\ratecard\invoice\repositories\InvoiceRepository.class
+com\ratecard\invoice\InvoiceApplication.class
+com\ratecard\invoice\services\InvoiceService.class
+com\ratecard\invoice\model\Invoice.class
